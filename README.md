@@ -18,6 +18,11 @@ https://github.com/LoLab-VU/zombie-apocalypse
 
 ---
 
+## Tutorial list
+
+1. [Learn Git Branching](https://learngitbranching.js.org/)
+   - An interactive tutorial in the web browser for learning how to use Git version control software.
+
 ## Reading list
 
 Free to download as `.pdf` files. Incredibly important resources for understanding theory and domain of computational modelling. 
