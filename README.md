@@ -1,22 +1,36 @@
 # phd-training-2022
-This repo is a selection of worked example used in our PhD training 
 
-## Session 1 - Biology with python. 
+This repo is a selection of worked examples used in our PhD training.
 
- *  Stats and plotting.
+## Session 1 - Biology with python
 
- *  Learning about ODE's with Zombie apocalypes exmaple:
-https://github.com/LoLab-VU/zombie-apocalypse
+Biological examples of Python programming, to showcase some example use cases for
+programming and Python in particular.
 
- * Mob programming on creating our own ODE example 
+ *  Stats and plotting using an example from enzyme kinetics
+
+ *  Modelling a zombie apocalypse using ordinary differential equations (ODEs)
+
+ *  Simulating Michaelis-Menten (catalytic conversion) reactions using [PySB](https://pysb.org)
 
 ## Session 2 - Basic Programming
 
+An introduction to the basics of programming in Python, such as importing packages,
+variables, loops and functions.
 
-
-## Secion 3 - Programming in the Franklin Universe
+## Session 3 - Programming in the Franklin Universe
 
 ---
+
+## Try using Binder
+
+You can try out these examples in a free online environment called [Binder](https://mybinder.org)
+using the link below. You'll get a [Jupyter Lab](https://jupyter.org) interface in your browser.
+
+[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rosalindfranklininstitute/phd-training-2022/HEAD)
+
+Note that Binder instances are ephemeral - changes are discarded at the end of your session. You
+can save your work by downloading notebooks to your local computer if desired.
 
 ## Tutorial list
 
